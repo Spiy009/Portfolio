@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://erhuotaigho.rf.gd/$1"
+    }
+  ]
+}
